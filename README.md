@@ -28,7 +28,7 @@
 ### 📈 GitHub Stats & Streaks:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=myselfakash20&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfakash20&theme=radical" width="48%" alt="GitHub Streak">  
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfakash20&theme=radical" width="48%" alt="GitHub Streak">  -->
 </p>
 
 ---
