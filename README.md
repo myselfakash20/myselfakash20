@@ -31,10 +31,14 @@
 ---
 
 ## 🏆 Achievements & Bug Bounty Hall of Fame:
-✅ Reported Security Vulnerabilities on **Bugcrowd** & **HackerOne**  
-✅ Featured in multiple **Hall of Fame** pages  
-✅ Published several cybersecurity articles on [Medium](https://medium.com/@myselfakash20)  
-✅ Created security tools for **automated reconnaissance & vulnerability scanning**  
+
+✅ Recognized by top companies & platforms for reporting security vulnerabilities.
+✅ Featured in Hall of Fame pages of multiple organizations.
+✅ Active Bug Bounty Hunter.
+✅ Published in Google, Microsoft, and other security acknowledgments.
+✅ Developed custom security tools for automated reconnaissance & vulnerability scanning.
+✅ Speaker & Writer – Published several cybersecurity articles on [Medium](https://medium.com/@myselfakash20).
+✅ Engaged in OSINT & Red Teaming research. 
 
 ---
 
