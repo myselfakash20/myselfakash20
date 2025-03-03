@@ -1,4 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/myselfakash20/myselfakash20/main/banner.png)
+
 
 # 👋 Hey, I'm Akash Ghosh | [@myselfakash20](https://github.com/myselfakash20)
 ### 🔥 Cybersecurity Researcher | Bug Bounty Hunter | Ethical Hacker  
