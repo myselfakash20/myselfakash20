@@ -1,4 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/myselfakash20/myselfakash20/refs/heads/main/banner.webp)
+![GitHub Banner](https://github.com/myselfakash20/myselfakash20/blob/main/Akash%20Ghosh%20%20%40myselfakash20.gif)
 
 <h1 align="center">👋 Hey, I'm <a href="https://github.com/myselfakash20">Akash Ghosh</a> | @myselfakash20</h1>
 <h3 align="center">🔥 Cybersecurity Researcher | Bug Bounty Hunter | Ethical Hacker </h3>
