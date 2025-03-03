@@ -34,9 +34,13 @@
 ---
 
 ### 🚀 Top Projects:
-- 🔥 **[XSS Scanner](https://github.com/myselfakash20/xss-scanner)** - Automated XSS vulnerability detection
-- 🔥 **[Recon Tool](https://github.com/myselfakash20/recon-tool)** - Custom-built bug bounty reconnaissance tool
-- 🔥 **[OSINT Framework](https://github.com/myselfakash20/osint-framework)** - Open-source intelligence gathering
+- 🔥 **[ASEnumiration](https://github.com/myselfakash20/ASEnumiration)** - An advanced subdomain enumeration tool
+- 🔥 **[GitHub Dorker](https://github.com/myselfakash20/Github_Dorker)** - Find exposed API keys, credentials, cloud secrets, database passwords, and CI/CD tokens from public GitHub repositories
+- 🔥 **[Vulnerability Scanner](https://github.com/myselfakash20/vulnerability_scan)** - Automates the process of gathering
+- 🔥 **[HTTP Headers Analysis](https://github.com/myselfakash20/http-headers-analysis)** - HTTP Headers Analysis tool helps identify and analyze HTTP headers in web traffic
+- 🔥 **[Wifi-Bruteforce](https://github.com/myselfakash20/wifi-bruteforce)** -
+
+
 
 📌 *Check out all my repositories:* [🔗 GitHub Repos](https://github.com/myselfakash20?tab=repositories)
 
@@ -51,7 +55,7 @@
 ---
 
 ### 🎯 Connect with Me:
-- 🌎 **Website**: [VulnVault](https://vulnvault.info)
+- 🌎 **Website**: [VulnVault](https://vulnvault.online)
 - 🐦 **Twitter/X**: [@myselfakash20](https://x.com/myselfakash20)
 - 🔗 **LinkedIn**: [Akash Ghosh](https://www.linkedin.com/in/akash-ghosh-145bb61b5/)
 - 🐙 **GitHub**: [@myselfakash20](https://github.com/myselfakash20)
