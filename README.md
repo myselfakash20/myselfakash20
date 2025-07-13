@@ -75,13 +75,10 @@
 
 ## 🔥 Featured Projects
 
-- 🔍 [ASEnumiration](https://github.com/myselfakash20/ASEnumiration) – Advanced subdomain enumeration tool  
-- 🕵️ [GitHub Dorker](https://github.com/myselfakash20/Github_Dorker) – Detect API keys & secrets in public GitHub repos  
-- 🛡️ [Vulnerability Scanner](https://github.com/myselfakash20/vulnerability_scan) – Automate recon & vulnerability scanning  
-- 🧠 [HTTP Headers Analysis](https://github.com/myselfakash20/http-headers-analysis) – Analyze and audit HTTP response headers  
-- 💣 [Wifi-Bruteforce](https://github.com/myselfakash20/wifi-bruteforce) – WiFi brute-force & handshake analyzer  
+<!-- LATEST-REPOS-LIST:START -->
+<!-- LATEST-REPOS-LIST:END -->
 
-📂 View all: [All Repositories →](https://github.com/myselfakash20?tab=repositories)
+📂 View all repositories: [GitHub →](https://github.com/myselfakash20?tab=repositories)
 
 ---
 
