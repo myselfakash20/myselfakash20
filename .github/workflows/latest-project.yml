@@ -1,19 +1,21 @@
 name: Latest GitHub Repositories
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */6 * * *" # Runs every 6 hours
   workflow_dispatch:
 permissions:
   contents: write
 
 jobs:
   update-readme:
-    name: Update README with latest repos
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Fetch and update latest GitHub repos
+        uses: Readme-Workflows/recent-activity@main
         with:
-          max_post_count: 10
-          feed_list: "https://github.com/myselfakash20"
-          custom_tags: "LATEST-REPOS-LIST"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_REPOS: 10
+          COMMIT_MESSAGE: "📦 Update latest GitHub repos"
