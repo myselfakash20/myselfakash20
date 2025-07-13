@@ -1,110 +1,84 @@
 ![Banner](https://github.com/myselfakash20/myselfakash20/blob/main/Akash%20Ghosh%20%20%40myselfakash20.gif)
 
-<h1 align="center">💻 Akash Ghosh | @myselfakash20</h1>
-<h3 align="center">🔐 Cybersecurity Researcher • Bug Bounty Hunter • Ethical Hacker</h3>
+<h1 align="center" style="font-family: monospace; color: #00ff99;"> 💀 Akash Ghosh | @myselfakash20 </h1>
+<h3 align="center" style="color: #33ffcc;">CYBERSECURITY RESEARCHER • BUG BOUNTY HUNTER • ETHICAL HACKER</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=myselfakash20&label=Profile+Views&color=blueviolet&style=plastic" alt="views" />
-  <img src="https://img.shields.io/github/followers/myselfakash20?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
+<img src="https://komarev.com/ghpvc/?username=myselfakash20&label=IMPOSTERS+DETECTED&color=purple&style=plastic" alt="profile views" />
+<img src="https://img.shields.io/github/followers/myselfakash20?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
 
-## ⚔️ About Me
+## ⚡ CORE RIG
 
-- 🧠 Security Enthusiast diving into **Vulnerability Research**, **OSINT**, and **Red Teaming**
-- 🐞 Bug Bounty Hunter featured in **Hall of Fame** listings (Google, Microsoft & more)
-- 🛠️ Creator of security tools for **recon**, **scanning**, and **exploitation**
-- ✍️ Cybersecurity Blogger on [Medium](https://medium.com/@myselfakash20)
-- 🎤 Speaker & Community Contributor in the infosec domain
+> whoami ─┤ akash.ghosh ├─ bio • Hardcoded into OSINT & Red Team stacks • Disassembler of misconfigured perimeter • Architect of exploitation automation
+
+
 
 ---
 
-## 🚀 Tech Arsenal
+## 🧬 TECH STACK
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3676AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/BurpSuite-F24E1E?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/BurpSuite-%23F24E1E.svg?style=for-the-badge&logo=burp-suite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-%230040FF.svg?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 Highlights
-
-- 🥇 Hall of Fame recognition from top companies  
-- 🐞 Active on Bugcrowd, HackerOne, Intigriti  
-- 🧰 Builder of custom red-team and automation tools  
-- ✍️ Author of blogs, case studies, and writeups  
-- 🎯 Focus on practical infosec, recon, and tooling  
-
----
-
-## 📊 GitHub Activity
+## 💻 SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myselfakash20&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfakash20&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=myselfakash20&theme=vision-friendly-dark&show_icons=true&hide_border=true" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfakash20&theme=vision-friendly-dark&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myselfakash20&theme=radical" width="100%" />
+<img src="https://ghchart.rshah.org/myselfakash20" alt="contribution chart" />
 </p>
 
 ---
 
-## 🌍 Visitor Map
+## 🛠 SIGNATURE TOOLS
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/myselfakash20" alt="GitHub chart" />
+<a href="https://github.com/myselfakash20/ASEnumiration"><img src="https://img.shields.io/badge/ASEnumiration-🔍%20Recon-brightgreen?style=for-the-badge&logo=linux&logoColor=white" alt="ASEnumiration" /></a>
+<a href="https://github.com/myselfakash20/Github_Dorker"><img src="https://img.shields.io/badge/Github_Dorker-🕵️‍♂️%20Secrets-yellow?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Dorker" /></a>
+<a href="https://github.com/myselfakash20/vulnerability_scan"><img src="https://img.shields.io/badge/Vuln_Scanner-⚡%20Auto-red?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Vulnerability Scanner" /></a>
+<a href="https://github.com/myselfakash20/http-headers-analysis"><img src="https://img.shields.io/badge/HTTP_Headers-📡%20Inspector-blue?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="HTTP Headers Analysis" /></a>
+<a href="https://github.com/myselfakash20/wifi-bruteforce"><img src="https://img.shields.io/badge/WiFi-BRUTEFORCE-black?style=for-the-badge&logo=wifi&logoColor=white" alt="WiFi Bruteforce" /></a>
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=myselfakash20&repo=myselfakash20&countColor=%23263759" />
+<a href="https://github.com/myselfakash20?tab=repositories"><img src="https://img.shields.io/badge/<< EXPLORE ALL REPOS >>-➡️%20GitHub-darkmagenta?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repos" /></a>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## ✍️ LATEST INTEL
 
-<!-- REPO-LIST:START -->
-<!-- REPO-LIST:END -->
-
-📂 View all repositories → [GitHub Repos](https://github.com/myselfakash20?tab=repositories)
-
----
-
-## ✍️ Latest Blog Posts
+$ grep -Po '(?<=<item><title>)[^<]+' <(curl -s https://medium.com/feed/@myselfakash20) | head -n 5 | sed 's/^/ • /'
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future is Simple: Why AI &amp; Tools Still Miss the Dumbest Bugs](https://infosecwriteups.com/the-future-is-simple-why-ai-tools-still-miss-the-dumbest-bugs-8e2072eff5a6?source=rss-dd58286f41af------2)
-- [The Hidden Recon Routines That Don’t Show Up in Anyone’s Toolkit](https://myselfakash20.medium.com/the-hidden-recon-routines-that-dont-show-up-in-anyone-s-toolkit-0612511c8cc2?source=rss-dd58286f41af------2)
-- [200$ by Tricking a Global Music App with One Line of Code](https://myselfakash20.medium.com/200-by-tricking-a-global-music-app-with-one-line-of-code-de2f4ab3cd4a?source=rss-dd58286f41af------2)
-- [How I Built a Recon Flow Out of Rage and Spite](https://myselfakash20.medium.com/how-i-built-a-recon-flow-out-of-rage-and-spite-18ddd367149e?source=rss-dd58286f41af------2)
-- [Recon Zen: Hacking With Nothing But Vibes and DevTools](https://infosecwriteups.com/recon-zen-hacking-with-nothing-but-vibes-and-devtools-d809ee497d69?source=rss-dd58286f41af------2)
 <!-- BLOG-POST-LIST:END -->
 
-📚 *Read all articles on [Medium](https://medium.com/@myselfakash20)*
+_Read more on_ [📰 Medium](https://medium.com/@myselfakash20)
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 CONNECTIVITY
 
-- 🌎 [Website – VulnVault](https://vulnvault.online)  
-- 🐦 [Twitter/X](https://x.com/myselfakash20)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/akash-ghosh-145bb61b5/)  
-- 🐙 [GitHub](https://github.com/myselfakash20)  
-- 🛡️ [Bugcrowd](https://bugcrowd.com/myselfakash20)  
-- 📝 [Medium](https://medium.com/@myselfakash20)  
-
----
-
-> 💬 *“Hacking is not about breaking things, it’s about exploring and understanding.”*
+<p align="center">
+<a href="https://vulnvault.online"><img src="https://img.shields.io/badge/WEBSITE-VULNVAULT-teal?style=for-the-badge&logo=none&logoColor=white" /></a>
+<a href="https://x.com/myselfakash20"><img src="https://img.shields.io/badge/X•TWITTER-cyan?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/akash-ghosh-145bb61b5/"><img src="https://img.shields.io/badge/LINKEDIN-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://bugcrowd.com/myselfakash20"><img src="https://img.shields.io/badge/BUGCROWD-darkorange?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
+<a href="https://medium.com/@myselfakash20"><img src="https://img.shields.io/badge/MEDIUM-darkgray?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
