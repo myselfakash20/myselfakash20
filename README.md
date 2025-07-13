@@ -75,10 +75,10 @@
 
 ## 🔥 Featured Projects
 
-<!-- LATEST-REPOS-LIST:START -->
-<!-- LATEST-REPOS-LIST:END -->
+<!-- REPO-LIST:START -->
+<!-- REPO-LIST:END -->
 
-📂 View all repositories: [GitHub →](https://github.com/myselfakash20?tab=repositories)
+📂 View all repositories → [GitHub Repos](https://github.com/myselfakash20?tab=repositories)
 
 ---
 
