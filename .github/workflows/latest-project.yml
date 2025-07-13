@@ -1,0 +1,19 @@
+name: Latest GitHub Repositories
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest repos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 10
+          feed_list: "https://github.com/myselfakash20"
+          custom_tags: "LATEST-REPOS-LIST"
