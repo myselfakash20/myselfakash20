@@ -1,23 +1,26 @@
-name: Update Latest Repos
+name: README Repos List
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 * * * *"  # every hour
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  list:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: List GitHub Repos
-        uses: marketplacerepos/github-repos-list@v1
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Run readme-repos-list
+        uses: koj-co/readme-repos-list@master
         with:
-          username: myselfakash20
-          max_repos: 10
-          sort_by: updated
-          target_file: README.md
-          marker_start: REPO-LIST:START
-          marker_end: REPO-LIST:END
+          token: ${{ secrets.GITHUB_TOKEN }}
+          query: "user:myselfakash20"
+          max: 10
+          start: "REPO-LIST:START"
+          end: "REPO-LIST:END"
+          path: README.md
+          prefix: "- "
