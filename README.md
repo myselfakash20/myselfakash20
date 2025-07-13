@@ -94,13 +94,11 @@ $ bio
 ## 📰 Latest Intel & Writes
 
 <!-- BLOG-POST-LIST:START -->
-
-* [The Future is Simple: Why AI & Tools Still Miss the Dumbest Bugs](https://infosecwriteups.com/the-future-is-simple-why-ai-tools-still-miss-the-dumbest-bugs-8e2072eff5a6)
-* [The Hidden Recon Routines That Don’t Show Up in Anyone’s Toolkit](https://myselfakash20.medium.com/the-hidden-recon-routines-that-dont-show‑up‑in‑anyone’s‑toolkit‑0612511c8cc2)
-* [200\$ by Tricking a Global Music App with One Line of Code](https://myselfakash20.medium.com/200‑by‑tricking‑a‑global‑music‑app‑with‑one‑line‑of‑code‑de2f4ab3cd4a)
-* [How I Built a Recon Flow Out of Rage and Spite](https://myselfakash20.medium.com/how‑i‑built‑a‑recon‑flow‑out‑of‑rage‑and‑spite‑18ddd367149e)
-* [Recon Zen: Hacking With Nothing But Vibes and DevTools](https://infosecwriteups.com/recon‑zen‑hacking‑with‑nothing‑but‑vibes‑and‑devtools‑d809ee497d69)
-
+- [The Future is Simple: Why AI &amp; Tools Still Miss the Dumbest Bugs](https://infosecwriteups.com/the-future-is-simple-why-ai-tools-still-miss-the-dumbest-bugs-8e2072eff5a6?source=rss-dd58286f41af------2)
+- [The Hidden Recon Routines That Don’t Show Up in Anyone’s Toolkit](https://myselfakash20.medium.com/the-hidden-recon-routines-that-dont-show-up-in-anyone-s-toolkit-0612511c8cc2?source=rss-dd58286f41af------2)
+- [200$ by Tricking a Global Music App with One Line of Code](https://myselfakash20.medium.com/200-by-tricking-a-global-music-app-with-one-line-of-code-de2f4ab3cd4a?source=rss-dd58286f41af------2)
+- [How I Built a Recon Flow Out of Rage and Spite](https://myselfakash20.medium.com/how-i-built-a-recon-flow-out-of-rage-and-spite-18ddd367149e?source=rss-dd58286f41af------2)
+- [Recon Zen: Hacking With Nothing But Vibes and DevTools](https://infosecwriteups.com/recon-zen-hacking-with-nothing-but-vibes-and-devtools-d809ee497d69?source=rss-dd58286f41af------2)
 <!-- BLOG-POST-LIST:END -->
 
 📝 [More on Medium →](https://medium.com/@myselfakash20)
