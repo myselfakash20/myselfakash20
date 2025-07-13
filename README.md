@@ -28,7 +28,7 @@ $ bio
 
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=myselfakash20&label=Visitors&color=39FF14&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=myselfakash20&label=Visitors&color=99070E&style=flat-square" alt="Profile Views" />
   <!-- GitHub Followers -->
   <img src="https://img.shields.io/github/followers/myselfakash20?label=Followers&style=social" alt="GitHub Followers" />
 </p>
@@ -126,8 +126,7 @@ $ bio
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=600&color=FF9900&center=true&vCenter=true&width=700&lines=I+read+headers+like+poetry." />
   <!-- line 3 -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=600&color=00FFF7&center=true&vCenter=true&width=700&lines=I+wasn't+invited;+I+still+got+in." />
-  <!-- line 4 static glitch vibe -->
- <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&weight=700&size=22&duration=3000&pause=600&color=39FF14&center=true&vCenter=true&width=700&lines=Hack+with+Purpose+@myselfakash20" />
+
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=9999&color=39FF14&center=true&vCenter=true&width=900&lines=Hack+with+Purpose+@myselfakash20." />
 
 </p>
