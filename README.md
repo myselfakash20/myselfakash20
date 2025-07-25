@@ -1,7 +1,7 @@
 <!-- README.md | Akash Ghosh -->
 
 <!-- ✨ Hero Banner -->
-[!Banner](https://github.com/myselfakash20/myselfakash20/blob/main/Banner.gif)
+![Banner](https://github.com/myselfakash20/myselfakash20/blob/main/Banner.gif)
 <h1 align="center"><code>Cybersecurity Researcher</code> </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Red%E2%80%91Teamer+%E2%80%A2+OSINT+Ninja+%E2%80%A2+Bug%E2%80%91Hunter+%E2%80%A2+Toolsmith" />
