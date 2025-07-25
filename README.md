@@ -1,9 +1,7 @@
 <!-- README.md | Akash Ghosh -->
 
 <!-- ✨ Hero Banner -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0C0A,100:BE9ADD&text=Akash%20Ghosh&fontAlign=center&fontAlignY=40&fontColor=1FA610" />
-
+[!Banner](https://
 <h1 align="center"><code>Cybersecurity Researcher</code> </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Red%E2%80%91Teamer+%E2%80%A2+OSINT+Ninja+%E2%80%A2+Bug%E2%80%91Hunter+%E2%80%A2+Toolsmith" />
