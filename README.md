@@ -29,10 +29,7 @@ $ bio
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=myselfakash20&label=Profile+Views&color=blueviolet&style=flat-square" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=myselfakash20" />
-  <img src="https://img.shields.io/badge/Tracked_by-GitHub_Analytics-black?style=flat-square" />
-</p>
-
-  <!-- GitHub Followers -->
+<!-- GitHub Followers -->
   <img src="https://img.shields.io/github/followers/myselfakash20?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
